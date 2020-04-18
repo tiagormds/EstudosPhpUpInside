@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39fddd43-d932-430e-ad88-e9cdc945ef4b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1WiBBiwOtF957Ozscw3sfkx248G" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/03-manipulacao-e-tratamento" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projetos\fsphp\02-iniciando-do-zero-com-php\02-02-definindo-ambiente" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projetos\fsphp\02-iniciando-do-zero-com-php\02-03-comandos-de-saida" />
+      <recent name="C:\Projetos\fsphp\02-iniciando-do-zero-com-php\02-02-definindo-ambiente" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39fddd43-d932-430e-ad88-e9cdc945ef4b" name="Default Changelist" comment="" />
+      <created>1579622400757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579622400757</updated>
+      <workItem from="1579622402021" duration="2691000" />
+      <workItem from="1579637108493" duration="2468000" />
+      <workItem from="1579786420492" duration="1915000" />
+      <workItem from="1579819428343" duration="1199000" />
+      <workItem from="1579877283985" duration="2105000" />
+      <workItem from="1580911825905" duration="693000" />
+      <workItem from="1581180868896" duration="6129000" />
+      <workItem from="1581287273178" duration="5709000" />
+      <workItem from="1581331878763" duration="606000" />
+      <workItem from="1581421218522" duration="1833000" />
+      <workItem from="1581515766268" duration="7000" />
+      <workItem from="1581516065729" duration="34000" />
+      <workItem from="1581521367601" duration="670000" />
+      <workItem from="1581590501174" duration="5000" />
+      <workItem from="1582888297271" duration="49000" />
+      <workItem from="1582888367184" duration="2774000" />
+      <workItem from="1583239966479" duration="17000" />
+      <workItem from="1583240112561" duration="302000" />
+      <workItem from="1583275221305" duration="11000" />
+      <workItem from="1583928544738" duration="599000" />
+      <workItem from="1584009905256" duration="211000" />
+      <workItem from="1584207329867" duration="6472000" />
+      <workItem from="1584356572084" duration="4857000" />
+      <workItem from="1584618660044" duration="3207000" />
+      <workItem from="1584645346615" duration="3688000" />
+      <workItem from="1584706769700" duration="3093000" />
+      <workItem from="1584813226594" duration="1879000" />
+      <workItem from="1585051903327" duration="1820000" />
+      <workItem from="1585159150067" duration="60000" />
+      <workItem from="1585159436160" duration="2196000" />
+      <workItem from="1585228844153" duration="6315000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="449" y="154" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1585159155282">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="449" y="154" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1585159155282" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1585245647628">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1585245647628" />
+    <state x="468" y="231" key="NewPhpClassDialog" timestamp="1585239193295">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="468" y="231" key="NewPhpClassDialog/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1585239193295" />
+    <state x="604" y="341" key="NewPhpFileDialog" timestamp="1584646887604">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="604" y="341" key="NewPhpFileDialog/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1584646887604" />
+    <state x="465" y="242" key="com.intellij.ide.util.TipDialog" timestamp="1585228845141">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="465" y="242" key="com.intellij.ide.util.TipDialog/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1585228845141" />
+    <state x="465" y="242" key="com.intellij.ide.util.TipDialog/0.0.1536.834/1920.0.1920.1080@0.0.1536.834" timestamp="1584356575404" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1584236201751">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1584236201751" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1584647485887">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1584647485887" />
+  </component>
+</project>

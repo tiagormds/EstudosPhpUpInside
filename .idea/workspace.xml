@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39fddd43-d932-430e-ad88-e9cdc945ef4b" name="Default Changelist" comment="" />
+    <list default="true" id="39fddd43-d932-430e-ad88-e9cdc945ef4b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-php-orientado-a-objetos/04-02-classes-propriedades-e-objetos/classes/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-manipulacao-e-tratamento/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/03-manipulacao-e-tratamento/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-php-orientado-a-objetos/04-02-classes-propriedades-e-objetos/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/04-php-orientado-a-objetos/04-02-classes-propriedades-e-objetos/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +18,11 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WiBBiwOtF957Ozscw3sfkx248G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -20,8 +30,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/03-manipulacao-e-tratamento" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -30,11 +41,14 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Projetos\fsphp\02-iniciando-do-zero-com-php\02-02-definindo-ambiente" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Projetos\fsphp\02-iniciando-do-zero-com-php\02-03-comandos-de-saida" />
+      <recent name="C:\Projetos\fsphp\02-iniciando-do-zero-com-php\02-02-definindo-ambiente" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projetos\fsphp\04-php-orientado-a-objetos\04-03-qualificacao-e-encapsulamento" />
+      <recent name="C:\Projetos\fsphp\04-php-orientado-a-objetos\04-03-qualificacao-e-encapsulamento\classes\Source" />
+      <recent name="C:\Projetos\fsphp\04-php-orientado-a-objetos\04-02-classes-propriedades-e-objetos\classes" />
       <recent name="C:\Projetos\fsphp\02-iniciando-do-zero-com-php\02-02-definindo-ambiente" />
     </key>
   </component>
@@ -91,29 +105,63 @@
       <workItem from="1585159150067" duration="60000" />
       <workItem from="1585159436160" duration="2196000" />
       <workItem from="1585228844153" duration="6315000" />
+      <workItem from="1587233916124" duration="7762000" />
     </task>
+    <task id="LOCAL-00001" summary="Adição de novo projeto.">
+      <created>1587234002191</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587234002191</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Atualização do projeto de treinamento de PHP.">
+      <created>1587256055248</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587256055248</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adição de novo projeto." />
+    <MESSAGE value="Atualização do projeto de treinamento de PHP." />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualização do projeto de treinamento de PHP." />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="562" y="133" key="#com.intellij.ide.util.MemberChooser" timestamp="1587255102207">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="562" y="133" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834/1920.0.1366.768@0.0.1536.834" timestamp="1587255102207" />
     <state x="449" y="154" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1585159155282">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="449" y="154" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1585159155282" />
+    <state x="393" y="11" key="CommitChangelistDialog2" timestamp="1587256054097">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="393" y="11" key="CommitChangelistDialog2/0.0.1536.834/1920.0.1366.768@0.0.1536.834" timestamp="1587256054097" />
     <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1585245647628">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1585245647628" />
-    <state x="468" y="231" key="NewPhpClassDialog" timestamp="1585239193295">
+    <state x="468" y="231" key="NewPhpClassDialog" timestamp="1587253987447">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state x="468" y="231" key="NewPhpClassDialog/0.0.1536.834/1920.0.1366.768@0.0.1536.834" timestamp="1587253987447" />
     <state x="468" y="231" key="NewPhpClassDialog/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1585239193295" />
     <state x="604" y="341" key="NewPhpFileDialog" timestamp="1584646887604">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="604" y="341" key="NewPhpFileDialog/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1584646887604" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1587256057848">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834/1920.0.1366.768@0.0.1536.834" timestamp="1587256057848" />
     <state x="465" y="242" key="com.intellij.ide.util.TipDialog" timestamp="1585228845141">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -123,9 +171,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="425" y="189" key="run.anything.popup/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1584236201751" />
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1584647485887">
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1587235499761">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834/1920.0.1366.768@0.0.1536.834" timestamp="1587235499761" />
     <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1584647485887" />
   </component>
 </project>

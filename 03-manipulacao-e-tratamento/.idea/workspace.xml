@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdf4f092-afef-49f8-bb6c-f845f6fe4f5e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-12-cookies-e-sessoes/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/03-12-cookies-e-sessoes/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +28,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/03-08-gestao-de-diretorios/remove" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -66,7 +64,8 @@
       <workItem from="1586980906264" duration="2023000" />
       <workItem from="1587055812233" duration="4772000" />
       <workItem from="1587150109262" duration="6514000" />
-      <workItem from="1587192245973" duration="1912000" />
+      <workItem from="1587192245973" duration="2206000" />
+      <workItem from="1587230167523" duration="1271000" />
     </task>
     <servers />
   </component>
@@ -78,10 +77,14 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1586545427440" />
-    <state x="465" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1587192245969">
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1587233911785">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="465" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834/1920.0.1366.768@0.0.1536.834" timestamp="1587192245969" />
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1366.768@0.0.1536.834" timestamp="1587233911785" />
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1587230169596">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834/1920.0.1366.768@0.0.1536.834" timestamp="1587230169596" />
     <state x="465" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834/1920.0.1536.864@0.0.1536.834" timestamp="1586625444321" />
     <state x="425" y="189" key="run.anything.popup" timestamp="1585273562119">
       <screen x="0" y="0" width="1536" height="834" />
